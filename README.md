@@ -183,11 +183,11 @@ getgenv().saveinstance = function(saving)
 end
 
 getgenv().identifyexecutor = function()
-    return "Hybrid  by Shadow UWP"
+    return "Hybrid  by Shadow & GAB UWP"
 end
 
 getgenv().getexecutorname = function()
-    return "Hybrid V2 By Shadow  UWP"
+    return "Hybrid V2 By Shadow & GAB  UWP"
 end
 
 getgenv().getscriptclosure = function(targetScript)
@@ -205,7 +205,7 @@ end
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
 OrionLib:MakeNotification({
 	Name = "Injection Success",
-	Content = "Thanks for using Hybrid v2\n\n\n",
+	Content = "Thanks for using Hybrid v2 #Shadow & gab\n\n\n",
 	Image = "rbxassetid://4483362748",
 	Time = 5
 })
