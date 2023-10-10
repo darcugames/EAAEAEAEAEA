@@ -183,11 +183,11 @@ getgenv().saveinstance = function(saving)
 end
 
 getgenv().identifyexecutor = function()
-    return "Hybrid  by Shadow & GAB UWP"
+    return "Hyze  by Shadow & GAB UWP"
 end
 
 getgenv().getexecutorname = function()
-    return "Hybrid V2 By Shadow & GAB  UWP"
+    return "Hyze By Shadow & GAB  UWP"
 end
 
 getgenv().getscriptclosure = function(targetScript)
